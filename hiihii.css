@@ -1,0 +1,168 @@
+.sanpham{
+    height: 2000px;
+}
+footer{
+    background-color: #fafafa;
+    height: 250px;
+}
+body{
+    background-image: url(img/187163.jpg);
+}
+header{
+    height: 80px;
+    background-color: white;
+}
+header>b{
+    font-size: 50px;
+    color: black;
+    float: left;
+    width: 600px;
+    font-family: 'Kanit', sans-serif;
+font-family: 'Lobster', cursive;
+font-family: 'Merriweather Sans', sans-serif;
+font-family: 'Notable', sans-serif;
+}
+.sign{
+    top: 2px;
+    right: 10px;
+    float: right;
+}
+.sign a{
+    color: black;
+}
+a{
+    text-decoration: none;
+}
+.tuychon{
+    position: relative;
+    width: 400px;
+    height: 20px;
+    left: 530px;
+    top: 15px;
+    font-size: 20px;
+}
+.tuychon a{
+    color: black;
+    padding: 25px;
+}
+.seach-history{
+    position: relative;
+    color: blue;
+    left: 500px;
+    font-size: 20px;
+    width: 300px;
+}
+.seach-history>a{
+    color: blue;
+}
+input{
+    position: relative;
+    width: 500px;
+    height: 25px;
+    float: none;
+    left: 100px;
+    top: 40px;
+    background-color: gray;
+}
+button{
+    position: relative;
+    left: 450px;
+    height: 30px;
+}
+.seach{
+    width: 300px;
+    height: 20px;
+    left: 500px;
+    top: auto;
+}
+.banner>img{
+    position: relative;
+    width: 592px;
+    height: 208px;
+    margin: 50px;
+}
+.sanpham > a{
+    top: 5px;
+    position: relative;
+}
+.sanpham b{
+    height: 100px;
+}
+.container{
+    height: 250px;
+    width: 200px;
+    background-color: rgb(235, 235, 235);
+    position: relative;
+    float: left;
+    left: 170px;
+    margin: 10px 50px 10px;
+    top: 10px;        
+}
+.card{
+    height: 45%;
+    width: 95%;
+    position: relative;
+    left: 3.5%;
+    top: 1%;
+}
+.card>img{
+    height: 185px;
+}
+.container:hover{
+    box-shadow: 3px 3px 5px gray;
+}
+.sanpham>a{
+    position: relative;
+    right: -90px;
+    top: -10px;
+}
+.sanpham>p{
+    font-size: 30px;
+    left: 230px;
+    position: relative;
+    background-color: black;
+    width: 300px;
+}
+.sanpham{
+    background-color: white;
+    height: 300px;
+}
+.infor>img{
+    position: relative;
+    width: 70px;
+    top:20px;
+    left: -10px;
+}
+.gia{
+    float: right;
+    margin-top: 25px;
+    color: red;
+    top: 1.5px;
+    position: relative;
+}
+.ten{
+    color: black;
+    text-align: center;
+    font-size: 12px;
+
+}
+footer div{
+    margin: 9%;
+    float: left;
+}
+.page button{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    left: -520px;
+    top: 300px;
+}
+.page button:hover{
+    background-color: black;
+    color: white;
+}
+body>iframe{
+    position: relative;
+    width: 100%;
+    height: 500px;
+}
